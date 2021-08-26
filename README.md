@@ -1,4 +1,4 @@
-# nodets-canil
+# PetDevShop
 Projeto PetShop
 
 ### Pré-requisitos globais:
